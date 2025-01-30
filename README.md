@@ -1,8 +1,7 @@
-# Netflix-analysis-project
 # Netflix Data Analysis Using SQL
 
 ## Overview
-This project involves analysing Netflix data using SQL to extract meaningful insights. The dataset was sourced from Kaggle and explored using various SQL queries to understand content distribution, trends, and other key statistics.
+This project involves analyzing Netflix data using SQL to extract meaningful insights. The dataset was sourced from Kaggle and explored using various SQL queries to understand content distribution, trends, and other key statistics.
 
 ## Features
 - Data extraction from Kaggle
